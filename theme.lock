@@ -40,7 +40,7 @@ config/settings_schema.json:
 layout/password.liquid:
   development: 2018-05-15T14:30:33+02:00   e3df81a186a3aaf1710cfc32ef51a558
 layout/theme.liquid:
-  development: 2018-05-15T12:50:03+02:00   9672a8d779273c6e0926d4141d9ccd5b
+  development: 2018-05-16T11:53:07+02:00   86199fa7ff4330f2fcf357cf8dd9e242
 locales/de.json:
   development: 2018-05-15T12:50:03+02:00   09cf9a7ff0052d8691dfff54ced866c5
 locales/en.default.json:
